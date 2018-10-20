@@ -6,6 +6,7 @@
     <c:import url="../settings/headsettings.jsp"></c:import>
 </head>
 <body>
+<h1>Hello</h1>
 <div class="container main-div mt-md-5">
     <div class="tools-div form-control text-right">
         <a class="btn btn-outline-warning ml-2" href="/filiation/create">Create</a>

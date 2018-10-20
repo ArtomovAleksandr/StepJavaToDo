@@ -1,3 +1,3 @@
-db.user=root
-db.password=
-db.url=jdbc:mysql://localhost:3306/todolist?characterEncoding=UTF-8&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+db.user=artomov@webapptodolist111
+db.password=VasiaPupkin88
+db.url=jdbc:mysql://webapptodolist111.mysql.database.azure.com:3306/todolist?characterEncoding=UTF-8&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
