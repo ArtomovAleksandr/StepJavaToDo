@@ -1,0 +1,5 @@
+aplication\service\implement\ToGoService.class
+aplication\controller\AdminController.class
+aplication\entity\TableToDo.class
+aplication\service\interfaces\EntityService.class
+aplication\repository\ToDoRepository.class
